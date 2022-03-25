@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?duration=5008&color=2951F7&center=true&vCenter=true&width=650&lines=I+LIKE+TO+BUILD+MACHINES+THAT+ARE+POWERED+BY+DATA)](https://git.io/typing-svg)
+![Typing SVG](http://readme-typing-svg.herokuapp.com?duration=5008&color=2951F7&center=true&vCenter=true&width=650&lines=I+LIKE+TO+BUILD+MACHINES+THAT+ARE+POWERED+BY+DATA)
 
 </div>
   
