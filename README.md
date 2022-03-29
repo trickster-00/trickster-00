@@ -21,6 +21,7 @@ class ManaalSaxena():
     self.name = "Manaal Saxena";
     self.username = "trickster-00";
     self.location = "Hyderabad, India";
+    self.email = "saxenamanaal@gmail.com"
     self.discord = "#9556";
   
   def __str__(self):
