@@ -41,5 +41,5 @@ if __name__ == '__main__':
 <br>
 <br>
 
-
-![Manaal's Activity Graph](https://activity-graph.herokuapp.com/graph?username=trickster-00&custom_title=Trickster%2000's%20Contribution%20Graph&theme=react-dark&)
+<h3 align="center">Github Contributions</h3>
+<img alt="github contribution snake animation" src="https://github.com/trickster-00/trickster-00/blob/96c3f56e44a229e02d964065ba3ae7e62dd292f9/sag/github-user-contribution.svg">
