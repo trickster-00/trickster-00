@@ -32,14 +32,5 @@ if __name__ == '__main__':
 ```
 
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trickster-00&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=trickster-00&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-<br>
-<br>
-
 <h3 align="center">Github Contributions</h3>
 <img alt="github contribution snake animation" src="https://github.com/trickster-00/trickster-00/blob/96c3f56e44a229e02d964065ba3ae7e62dd292f9/sag/github-user-contribution.svg">
